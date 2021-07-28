@@ -1,0 +1,16 @@
+/* TITULO */
+h1{
+    color: red;
+}
+
+#titulo1 {
+    color:blue;
+}
+
+#titulo2 {
+    color: green;
+}
+
+.grupo{
+    color:orange;
+}
